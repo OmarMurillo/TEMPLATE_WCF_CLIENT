@@ -1,0 +1,6 @@
+C:\Users\anima\Desktop\CS\library\bin\MessageInterceptor.dll
+C:\Users\anima\Desktop\CS\library\bin\MessageInterceptor.pdb
+C:\Users\anima\Desktop\CS\library\obj\Debug\library.csproj.AssemblyReference.cache
+C:\Users\anima\Desktop\CS\library\obj\Debug\library.csproj.CoreCompileInputs.cache
+C:\Users\anima\Desktop\CS\library\obj\Debug\MessageInterceptor.dll
+C:\Users\anima\Desktop\CS\library\obj\Debug\MessageInterceptor.pdb

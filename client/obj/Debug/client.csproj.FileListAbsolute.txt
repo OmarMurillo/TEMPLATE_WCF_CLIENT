@@ -1,0 +1,11 @@
+C:\Users\anima\Desktop\CS\client\bin\client.exe.config
+C:\Users\anima\Desktop\CS\client\bin\client.exe
+C:\Users\anima\Desktop\CS\client\bin\client.pdb
+C:\Users\anima\Desktop\CS\client\bin\MessageInterceptor.dll
+C:\Users\anima\Desktop\CS\client\bin\MessageInterceptor.pdb
+C:\Users\anima\Desktop\CS\client\obj\Debug\client.csproj.AssemblyReference.cache
+C:\Users\anima\Desktop\CS\client\obj\Debug\client.csproj.SuggestedBindingRedirects.cache
+C:\Users\anima\Desktop\CS\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\anima\Desktop\CS\client\obj\Debug\client.csproj.CopyComplete
+C:\Users\anima\Desktop\CS\client\obj\Debug\client.exe
+C:\Users\anima\Desktop\CS\client\obj\Debug\client.pdb
